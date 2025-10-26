@@ -42,14 +42,9 @@ The analysis focuses on identifying the most popular EV models, manufacturers, a
 
 ## 📂 Project Structure
 ├── data/
-│ └── Electric_Vehicle_Population_Data.csv
 ├── notebooks/
-│ └── Exploratory Data Analysis(EDA).ipynb
 ├── images/
-│ ├── top_models.png
-│ ├── top_makes.png
-│ ├── ev_heatmap.png
-│ ├── range_boxplot.png
-│ └── range_line.png
-├── MEDIUM_ARTICLE.md
+├── requirements.txt
+├── LICENSE
 └── README.md
+
