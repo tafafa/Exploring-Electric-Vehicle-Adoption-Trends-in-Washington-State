@@ -32,7 +32,7 @@ The analysis focuses on identifying the most popular EV models, manufacturers, a
 
 ## 📈 Visualizations
 - Top 10 EV Models, Makes, Locations
-![Top 10 EV Models, Makes, Locations]([.images/Top_10_EV_Models_,_Makes_and_Locations])
+![Top 10 EV Models, Makes, Locations]([.images/Top_10_EV_Models_,_Makes_and_Locations.png])
 - EV Type vs CAFV Eligibility Heatmap  
 - Boxplot: Electric Range by Make  
 - Line Chart: Electric Range by Model Year  
