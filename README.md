@@ -56,7 +56,7 @@ The dataset was sourced from Data.gov **[Electric Vehicle Population Data](https
 
 📚 Medium Article
 Want the full walkthrough and visual story behind the analysis?
-👉 Read the full Medium post here **[Read the full Medium post here](https://maven-datasets.s3.amazonaws.com/Global+CO2+Emissions/CO2+Emissions.zip)**This article explains the data cleaning, visualization process, and findings in a more conversational and educational style.
+👉 Read the full Medium post here **[Read the full Medium post here]((https://medium.com/@thomasanthonio/exploring-electric-vehicle-adoption-trends-in-washington-state-621f1a9475ca))**This article explains the data cleaning, visualization process, and findings in a more conversational and educational style.
 
 ---
 
