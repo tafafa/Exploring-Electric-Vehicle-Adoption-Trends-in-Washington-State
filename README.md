@@ -59,24 +59,5 @@ Want the full walkthrough and visual story behind the analysis?
 👉 **[Read the full Medium post here](https://medium.com/@thomasanthonio/exploring-electric-vehicle-adoption-trends-in-washington-state-621f1a9475ca)**
 This article explains the data cleaning, visualization process, and findings in a more conversational and educational style.
 
----
-
-## 📂 Project Structure
-```bash
-EV-Adoption-Trends/
-│
-├── data/
-│   └── Electric_Vehicle_Population_Data.csv
-│
-├── notebooks/
-│   └── Exploratory_Data_Analysis(EDA).ipyn
-│
-├── images/                                      
-│   ├── top_models.png
-│   ├── top_makes.png
-│   ├── ev_heatmap.png
-│   └── range_line.png
-│                            
-├── LICENSE                                      
-└── README.md                                    
+---                                   
 
