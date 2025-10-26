@@ -62,6 +62,7 @@ This article explains the data cleaning, visualization process, and findings in 
 ---
 
 ## 📂 Project Structure
+```bash
 ├── data/
 ├── notebooks/
 ├── images/
