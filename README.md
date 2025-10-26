@@ -11,6 +11,11 @@ The analysis focuses on identifying the most popular EV models, manufacturers, a
 
 ---
 
+## 🔍 Data Source
+The dataset was sourced from Data.gov **[Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data))**. 
+
+---
+
 ## 🧰 Tools and Libraries
 - **Python 3.9+**
 - **pandas**
