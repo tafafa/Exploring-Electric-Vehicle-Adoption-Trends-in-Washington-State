@@ -63,10 +63,20 @@ This article explains the data cleaning, visualization process, and findings in 
 
 ## 📂 Project Structure
 ```bash
+EV-Adoption-Trends/
+│
 ├── data/
+│   └── Electric_Vehicle_Population_Data.csv
+│
 ├── notebooks/
-├── images/
-├── requirements.txt
-├── LICENSE
-└── README.md
+│   └── Exploratory_Data_Analysis(EDA).ipyn
+│
+├── images/                                      
+│   ├── top_models.png
+│   ├── top_makes.png
+│   ├── ev_heatmap.png
+│   └── range_line.png
+│                            
+├── LICENSE                                      
+└── README.md                                    
 
